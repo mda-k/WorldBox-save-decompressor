@@ -8,3 +8,4 @@ also, this program is nowhere near perfect, so don't expect much :). i put it to
 
 
 sources are in sources.txt. instructions and some info on how to use these programs.
+ONLY DESIGNED FOR WINDOWS, ONLY TESTED ON WINDOWS!
