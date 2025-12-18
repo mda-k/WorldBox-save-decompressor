@@ -1,0 +1,4 @@
+sources:
+
+the decompressor icon:				https://thenounproject.com/icon/unpack-100427/
+the recompressor icon:				https://thenounproject.com/icon/pack-100426/
